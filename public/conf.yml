@@ -1,13 +1,13 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
-  title: Dashy
+  title: Dash-e
   description: Welcome to your new dashboard!
   navLinks:
   - title: GitHub
-    path: https://github.com/Lissy93/dashy
+    path: https://github.com/kleva-j/dash-e
   - title: Documentation
-    path: https://dashy.to/docs
+    path: https://github.com/kleva-j/dash-e/README.md
 
 # Optional app settings and configuration
 appConfig:
@@ -44,4 +44,37 @@ sections:
     description: Get help with Dashy, raise a bug, or get in contact
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
     icon: far fa-hands-helping
-  
+
+- name: Deployments and Monitoring
+  icon: fas fa-rocket
+  items:
+  - title: Render
+    description: Render is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.
+    icon: https://cdn-icons-png.flaticon.com/512/3408/3408591.png
+    url: https://dashboard.render.com/
+    target: newtab
+  - title: Vercel
+    description: Deploy instantly, scale without effort, and securely deliver exceptional experiences to customers around the globe.
+    icon: https://i.pinimg.com/originals/c4/35/6c/c4356cd5454d06585e0a46066b555172.png
+    url: https://vercel.com/dashboard
+    target: newtab
+  - title: Netlify
+    description: Enable
+    icon: https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png
+    url: https://app.netlify.com/teams/kleva-j/overview
+    target: newtab
+  - title: Glitch
+    description: Glitch is the friendly place where everyone builds the web. Start a new blog play with React, or build new worlds with WebXR.
+    url: https://glitch.com/dashboard
+    icon: https://logos-world.net/wp-content/uploads/2021/03/Glitch-Logo-2018-present.png
+    target: newtab
+  - title: Heroku
+    description: showcase
+    icon: https://cdn.icon-icons.com/icons2/2108/PNG/128/heroku_icon_130912.png
+    url: https://dashboard.heroku.com/apps
+    target: newtab
+  - title: Railway
+    description: Railway
+    icon: https://railway.app/brand/logo-light.png
+    url: https://railway.app/dashboard
+    target: newtab
