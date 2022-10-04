@@ -60,7 +60,7 @@ export default {
     window.removeEventListener('keydown', this.handleKeyPress);
   },
   methods: {
-    /* Call correct function dependending on which key is pressed */
+    /* Call correct function dependenting on which key is pressed */
     handleKeyPress(event) {
       const currentElem = document.activeElement.id;
       const { key, keyCode } = event;

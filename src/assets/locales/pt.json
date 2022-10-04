@@ -106,7 +106,7 @@
     "change-fonts-button": "Trocar fonte",
     "save-button": "Salvar",
     "cancel-button": "Cancelar",
-    "saved-toast": "{theme} atualizado com sucesso",
+    "saved-toast": "{theme} atualizado com successo",
     "copied-toast": "Dados do {theme} copiados para área de transferência",
     "reset-toast": "Cores customizadas do {theme} removidas"
   },
@@ -119,8 +119,8 @@
     "valid-label": "Configuração é válida",
     "status-success-msg": "Tarefa concluída",
     "status-fail-msg": "Falha na tarefa",
-    "success-msg-disk": "Arquivo de configuração gravado no disco com sucesso",
-    "success-msg-local": "Mudanças locais salvas com sucesso",
+    "success-msg-disk": "Arquivo de configuração gravado no disco com successo",
+    "success-msg-local": "Mudanças locais salvas com successo",
     "success-note-l1": "O app deve atualizar automaticamente.",
     "success-note-l2": "Isso pode levar até um minuto.",
     "success-note-l3": "Você precisará atualizar a página para aplicar as mudanças.",
@@ -139,7 +139,7 @@
     "rebuilding-status-1": "Construindo...",
     "rebuilding-status-2": "Isso pode levar alguns minutos",
     "error-permission": "Você não tem permissão para acionar esta ação",
-    "success-msg": "Construção concluída com sucesso!",
+    "success-msg": "Construção concluída com successo!",
     "fail-msg": "Operação de construção falhou",
     "reload-note": "Uma atualização da página é necessária para aplicar as alterações.",
     "reload-button": "Atualizar página"
@@ -164,8 +164,8 @@
     "backup-missing-password": "Senha ausente",
     "backup-error-unknown": "Incapaz de processar o pedido",
     "backup-error-password": "Senha incorreta. Por favor, digite sua senha atual.",
-    "backup-success-msg": "Completado com sucesso",
-    "restore-success-msg": "Configuração restaurada com sucesso"
+    "backup-success-msg": "Completado com successo",
+    "restore-success-msg": "Configuração restaurada com successo"
   },
   "menu": {
     "open-section-title": "Abrir em",

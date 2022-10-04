@@ -160,7 +160,7 @@ export default {
       if (response.correct) { // Yay, credentials were correct :)
         login(this.username, this.password, timeout); // Login, to set the cookie
         this.goHome();
-        InfoHandler(`Succesfully signed in as ${this.username}`, InfoKeys.AUTH);
+        InfoHandler(`Successfully signed in as ${this.username}`, InfoKeys.AUTH);
       } else {
         WarningInfoHandler('Unable to Sign In', InfoKeys.AUTH, this.message);
       }

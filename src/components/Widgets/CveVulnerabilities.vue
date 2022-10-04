@@ -198,7 +198,7 @@ export default {
       opacity: var(--dimming-factor);
       border-left: 1px solid var(--widget-text-color);
     }
-    .seperator {
+    .separator {
       font-size: 0.8rem;
       margin: 0;
       opacity: var(--dimming-factor);

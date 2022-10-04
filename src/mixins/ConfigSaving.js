@@ -69,7 +69,7 @@ export default {
       if (config.appConfig.theme) {
         localStorage.setItem(localStorageKeys.THEME, config.appConfig.theme);
       }
-      InfoHandler('Config has succesfully been saved in browser storage', 'Config Update');
+      InfoHandler('Config has successfully been saved in browser storage', 'Config Update');
       this.showToast(this.$t('config-editor.success-msg-local'), true);
       this.$store.commit(StoreKeys.SET_EDIT_MODE, false);
     },

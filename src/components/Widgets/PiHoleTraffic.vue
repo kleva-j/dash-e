@@ -42,7 +42,7 @@ export default {
         this.error('Expected data was not returned from Pi-Hole');
         return false;
       } else if (response.ads_over_time.length < 1) {
-        this.error('Request completed succesfully, but no data in Pi-Hole yet');
+        this.error('Request completed successfully, but no data in Pi-Hole yet');
         return false;
       }
       return true;
