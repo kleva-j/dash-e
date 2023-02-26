@@ -39,8 +39,8 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Azerioxal">
-            <img src="https://avatars.githubusercontent.com/u/5369885?v=4" width="80;" alt="Azerioxal"/>
+        <a href="https://github.com/kenneth-church">
+            <img src="https://avatars.githubusercontent.com/u/5369885?v=4" width="80;" alt="kenneth-church"/>
             <br />
             <sub><b>Kenneth Church</b></sub>
         </a>
