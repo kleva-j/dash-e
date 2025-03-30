@@ -82,8 +82,8 @@ EVOTk <45015615+EVOTk@users.noreply.github.com> - 22 commits
 Marcell Fülöp <marekful@protonmail.com> - 24 commits
 Alicia Bot <87835202+liss-bot@users.noreply.github.com> - 108 commits
 liss-bot <liss-bot@d0h.co> - 130 commits
-github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 177 commits
-repo-visualizer <repo-visualizer@users.noreply.github.com> - 185 commits
+github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 179 commits
+repo-visualizer <repo-visualizer@users.noreply.github.com> - 186 commits
 Alicia Sykes <alicia@omg.lol> - 196 commits
 Alicia Sykes <gh@d0h.co> - 435 commits
 Alicia Sykes <sykes.alicia@gmail.com> - 1403 commits
