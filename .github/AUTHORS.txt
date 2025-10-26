@@ -83,7 +83,7 @@ Marcell Fülöp <marekful@protonmail.com> - 24 commits
 Alicia Bot <87835202+liss-bot@users.noreply.github.com> - 108 commits
 liss-bot <liss-bot@d0h.co> - 130 commits
 Alicia Sykes <alicia@omg.lol> - 196 commits
-github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 213 commits
-repo-visualizer <repo-visualizer@users.noreply.github.com> - 215 commits
+github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 214 commits
+repo-visualizer <repo-visualizer@users.noreply.github.com> - 216 commits
 Alicia Sykes <gh@d0h.co> - 435 commits
 Alicia Sykes <sykes.alicia@gmail.com> - 1403 commits
