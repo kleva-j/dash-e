@@ -11,8 +11,8 @@
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/Lissy93">
-            <img src="https://avatars.githubusercontent.com/u/1862727?v=4" width="80;" alt="Lissy93"/>
+        <a href="https://github.com/lissy93">
+            <img src="https://avatars.githubusercontent.com/u/1862727?v=4" width="80;" alt="lissy93"/>
             <br />
             <sub><b>Alicia Sykes</b></sub>
         </a>
